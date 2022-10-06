@@ -1,2 +1,2 @@
-#!/bin/bash
-New owner
+#!/bin/bash 
+sudo chown betty hello
